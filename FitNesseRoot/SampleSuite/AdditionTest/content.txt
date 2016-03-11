@@ -1,0 +1,11 @@
+!define TEST_SYSTEM {slim}
+!path target\classes
+!pomFile pom.xml
+
+!|import|
+|com|
+
+|com.Calculator|
+|first|second|add?|
+|1|2|3|
+|2|3|5|
